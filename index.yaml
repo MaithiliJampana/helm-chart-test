@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  helm-chart-sourceshelm-chart-test:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-02-06T23:07:03.1436243+05:30"
+    description: A Helm chart for Kubernetes
+    digest: f0ab85109adb084881d043d2f95d4d6f99e9e67a703aa895c98b4a275e3b1054
+    name: helm-chart-sourceshelm-chart-test
+    type: application
+    urls:
+    - https://github.com/MaithiliJampana/helm-chart-test.git/helm-chart-sourceshelm-chart-test-0.1.0.tgz
+    version: 0.1.0
+  helm-chart-test:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-02-06T23:07:03.1466254+05:30"
+    description: A Helm chart for Kubernetes
+    digest: d3626c7fb5ece7a95eae44aa94c14305b1b335c444a9445c00d93e94d25fdf40
+    name: helm-chart-test
+    type: application
+    urls:
+    - https://github.com/MaithiliJampana/helm-chart-test.git/helm-chart-test-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-02-06T23:07:03.1406158+05:30"
